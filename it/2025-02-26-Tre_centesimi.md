@@ -6,7 +6,7 @@ categories: economia politica
 lang: it
 ---
 
-![Tre centesimi](/assets/images/tre-centesimi.jpg)
+![Tre centesimi](/assets/images/tre-centesimi.png)
 
 Tre centesimi. Cosa sono tre centesimi? Nulla. Non c’è nulla che si possa comprare per tre centesimi, neanche una Goleador per gli italiani, neanche un pacchetto di Mistral Gagnant per i francesi più anziani. Forse il sacchettino biodegradabile per la frutta del supermercato. Quei due pezzetti di rame, così modesti da non possedere neanche quell’affascinante tintinnio che porta molti uomini nel baratro dell’esistenza. Guardando l’effigie sul retro, mi stupisce sempre il contrasto tra il valore di queste due monetine e l’austera maestosità della Mole Antonelliana e di Castel del Monte. È nascosta la grandezza in tre centesimi? 
 
