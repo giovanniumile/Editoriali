@@ -2,7 +2,7 @@
 layout: post
 title: "Tre centesimi"
 date: 2024-02-26
-categories: economia politica
+categories: politica
 lang: it
 ---
 
